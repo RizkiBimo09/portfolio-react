@@ -18,16 +18,14 @@ const About = () => {
           </div>
           <div>
             <p>
-              I am a fresh graduate Informatic Engineering from Politeknik
-              Harapan Bersama with hands-on experience in full-stack development
-              using various modern frameworks such as Bootstrap, Tailwind CSS,
-              Vue.js, Laravel, Flask, and Flutter. Proven leadership skills and
-              strong adaptability in team-based projects. Experienced in
-              building web and mobile applications with AI-based features and
-              responsive UI/UX designs. Successfully led a team or independently
-              in developing web application that increased data management
-              efficiency by 30%. Highly enthusiastic to contribute to a team
-              focused on technological innovation.
+              I am a fresh graduate in Informatics Engineering from Politeknik
+              Harapan Bersama with experience in full-stack development using
+              modern frameworks like Bootstrap, Tailwind CSS, Vue.js, Laravel,
+              Flask, and Flutter. Skilled in building AI-based web and mobile
+              applications with responsive UI/UX designs. Proven leadership and
+              teamwork abilities, including leading projects that improved data
+              management efficiency by 30%. Highly motivated to contribute to
+              innovative technology-driven teams.
             </p>
           </div>
         </div>
