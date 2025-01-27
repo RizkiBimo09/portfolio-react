@@ -71,10 +71,8 @@ Contributions are welcome! If you have suggestions or find bugs, feel free to:
 ## Contact
 Feel free to connect with me:
 - **Email**: rizkibimo09@gmail.com
-- **LinkedIn**: [linkedin.com/in/rizkibimo09]([https://linkedin.com/in/rizkibimo09](https://www.linkedin.com/in/rizki-bimo-wijaya/))
-- **GitHub**: [github.com/rizkibimo09]([https://github.com/rizkibimo09](https://github.com/RizkiBimo09))
+- **LinkedIn**: [linkedin.com/in/rizki-bimo-wijaya](https://www.linkedin.com/in/rizki-bimo-wijaya/)
 
 ---
 
 Thank you for visiting my portfolio! 🙌
-
